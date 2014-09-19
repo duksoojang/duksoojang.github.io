@@ -145,12 +145,12 @@ padding: 35px;
 
 #pricing-section .plan-main {
     background: #FFFFFF;
-list-style: none;
-margin: 0 0 20px;
-text-align: center;
-padding: 0;
-border-bottom: 1px solid #e1e1e1;
-border: 1px solid #E9E9E9;
+    list-style: none;
+    margin: 0 0 20px;
+    text-align: center;
+    padding: 0;
+    border-bottom: 1px solid #e1e1e1;
+    border: 1px solid #E9E9E9;
 }
 
     #pricing-section .plan-main li {
@@ -168,7 +168,7 @@ border: 1px solid #E9E9E9;
         #pricing-section .plan-main li.plan-price {
             color: #666;
             padding: 15px 0;
-            font-size: 48px;
+            font-size: 40px;
         }
 
         #pricing-section .plan-main li.plan-action {
